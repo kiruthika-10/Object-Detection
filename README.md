@@ -8,8 +8,9 @@ Real-time object detection
 Detects multiple objects with high accuracy
 Supports both images and video streams
 Saves output images with bounding boxes
-🧰 Tech Stack
 
+
+🧰 Tech Stack
 YOLOv7
 Python
 OpenCV
